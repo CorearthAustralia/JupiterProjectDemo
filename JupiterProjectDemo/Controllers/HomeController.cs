@@ -11,7 +11,7 @@ namespace JupiterProjectDemo.Controllers
         public ActionResult Index()
         {
             await = 
-            private XmlSiteMapProvider = ""
+         
             return View();
         }
 
