@@ -10,8 +10,6 @@ namespace JupiterProjectDemo.Controllers
     {
         public ActionResult Index()
         {
-            await = 
-         
             return View();
         }
 
