@@ -10,10 +10,10 @@ namespace JupiterProjectDemo.Controllers
     {
         public ActionResult Index()
         {
-            private vars =1
+           
             return View();
         }
-
+ 
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page ";
